@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FileList>
+	<File Reference = "Kjs.AppLife.Update.Controller.dll">
+		<ToolboxItems VSCategory="AppLife Update" BlendCategory="AppLife Update">
+			<Item Type="Kjs.AppLife.Update.Controller.UpdateController"/>
+			<Item Type="Kjs.AppLife.Update.Controller.UpdateDisplay"/>
+			<Item Type="Kjs.AppLife.Update.Controller.UpdateDetailsDisplay"/>
+			<Item Type="Kjs.AppLife.Update.Controller.UpdateNotifyIconDisplay"/>
+		</ToolboxItems>
+	</File>
+</FileList>
